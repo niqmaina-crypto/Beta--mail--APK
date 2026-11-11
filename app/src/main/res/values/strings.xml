@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BETA MAIL</string>
+    <string name="search_placeholder">Search mail, senders, labels…</string>
+    <string name="priority_inbox">Priority Inbox</string>
+    <string name="all_mail">All Mail</string>
+    <string name="compose">Compose</string>
+    <string name="smart_labels">Smart Labels</string>
+</resources>
